@@ -37,12 +37,4 @@ For the button hover, I'd like the cursor to be a pointer and the font colour sh
 
 Use the browser's local storage to remember the priority even after the tab is closed.
 
-<<<<<<< HEAD
 For "inspiration", see the sample completed project here: https://github.com/miksimal/today-chrome-extension
-||||||| merged common ancestors
-+ Refresh and improve knowledge of vanilla JS, HTMl, and CSS
-+ Learn how to use local storage
-+ Deploy my first "app" to the world, as a Chrome extension
-=======
-For "inspiration", see the sample completed project here: https://github.com/miksimal/today-chrome-extension
->>>>>>> aa918751e6354bbbfeb14e761d58e3468af0b76c
