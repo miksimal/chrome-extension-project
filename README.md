@@ -28,8 +28,11 @@ Did you think of some improvements before? If not, here are some ideas:
 + Once I add a priority, I want the browser to remember it when I open a new tab!
 + Bonus: keep a list of the past 10 days' priorities ?
 
-This is where the real learning starts. You'll probably get stuck (if not, this was too easy -- on to the next challenge!). The best way to get unstuck is to search Google/Stackoverflow (an important developer skill!), read documentation - for this task w3schools is great (e.g. https://www.w3schools.com/css/css3_buttons.asp). When you find a fix that works, make sure you understand *why* it works. Finally, you can look at the spoilers and example code in the section below.
-
+This is where the real learning starts! While working on the improvements, I suggest you:
++ View the HTML, CSS, and Javascript videos from here: https://cs50.harvard.edu/college/2020/spring/weeks/8/ (don't worry about the other content for now!)
++ Whenever you are stuck, search Google/StackOverflow (an important developer skill!) and read the documentation (for this task, w3schools is great (e.g. https://www.w3schools.com/css/css3_buttons.asp)
++ When you find a fix that works, make sure you understand *why* it works.
++ Finally, you can look at the spoilers and example code in the section below.
 
 
 
