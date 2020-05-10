@@ -31,6 +31,14 @@ Did you think of some improvements before? If not, here are some ideas:
 This is where the real learning starts. You'll probably get stuck (if not, this was too easy -- on to the next challenge!). The best way to get unstuck is to search Google/Stackoverflow (an important developer skill!), read documentation - for this task w3schools is great (e.g. https://www.w3schools.com/css/css3_buttons.asp). When you find a fix that works, make sure you understand *why* it works. Finally, you can look at the spoilers and example code in the section below.
 
 
+
+
+
+
+
+
+
+
 ---- SPOILERS ----
 
 For the button hover, I'd like the cursor to be a pointer and the font colour should change in addition to the background colour so the text doesn't disappear.
