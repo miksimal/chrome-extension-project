@@ -1,0 +1,32 @@
+button { 
+
+   height: 35px;
+   width: 80px;
+   background: black;
+   color: white;
+   border: 2px solid;
+   font-size: 12px;
+   font-weight: bold;
+   font-family: sans-serif;
+
+}
+
+button:hover { /* on hover, swap font and background colours */
+
+    background: white;
+}
+
+body {
+   background-color:#F4F0EB;
+   font-family: sans-serif;
+}
+
+input {
+
+    padding: 5px;
+    font-size: 12px;
+    width: 300px;
+    height: 20px;
+    font-family: sans-serif;
+
+}
