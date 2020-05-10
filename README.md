@@ -16,7 +16,7 @@ Now open a new tab and you should see a half-baked Chrome extension!
 ## Understand the code
 Thought of some improvements? Great - time to open up VS Code!
 
-Open the repository folder in VS Code and explore the three important files, namely index.html, main.css, and main.js.
+Open the repository folder in VS Code and explore the three important files, namely index.html, main.css, and main.js. Don't worry about the manifest.json - it just includes a few things Chrome needs for extensions, such as version number.
 
 At a high level, the HTML is what gets displayed, the CSS determines how it gets displayed (e.g. positioning, animation, padding), and the JS (Javascript) has the logic (e.g. deciding what happens when you click "Submit").
 
